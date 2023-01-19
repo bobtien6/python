@@ -17,6 +17,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/futures_oi_20230117.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
