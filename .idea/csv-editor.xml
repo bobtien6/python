@@ -24,7 +24,7 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="/2330台積電.csv">
+        <entry key="/20230130_2330.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -59,7 +59,7 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="/futures_oi_20201116.csv">
+        <entry key="/2330台積電.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
